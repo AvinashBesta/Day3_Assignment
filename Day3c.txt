@@ -1,0 +1,6 @@
+#!/bin/bash
+if [[ -d /zz ]]
+then
+echo "exists"
+fi
+
